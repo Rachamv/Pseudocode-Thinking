@@ -5,14 +5,17 @@ Introduction
 Aspiring programmers often jump into coding exercises and projects without a clear plan or understanding of the logic behind their code. This hasty approach can lead to confusion, inefficiency, and frustration. To avoid these pitfalls, beginner programmers should embrace the practice of pseudocode-thinking. Pseudocode is a way of describing an algorithm without using any specific programming language. It is a high-level, informal language that can be used to communicate an algorithm to anyone who understands the problem that the algorithm is trying to solve.
 
 **History of Pseudocode**
+
 The term "pseudocode" was first coined in the 1960s by Edsger W. Dijkstra, a Dutch computer scientist. Dijkstra used the term to describe a "plain English" way of describing algorithms. He believed that pseudocode could be used to communicate algorithms more effectively than natural language, and that it could also be used to test and debug algorithms before they were implemented in a programming language.
 
 Over time, pseudocode has evolved to become a more standardized way of describing algorithms. There are now a number of different pseudocode notations that are in use, but they all share some common features. For example, pseudocode typically uses natural language keywords to describe the steps of an algorithm, and it often uses indentation to show the structure of the algorithm.
 
 ## Outline:
+
 1. [Introduction](#introduction)
    - Highlight the significance of pseudocode-thinking for beginners.
    - History of Pseudocode
+
 2. [Types of Pseudocode](#Types-of-Pseudocode)
    - Different Types of Pseudocode
    - Challenges of Using Pseudocode
@@ -46,25 +49,29 @@ Over time, pseudocode has evolved to become a more standardized way of describin
    - Why Contribute?
 
 ## Types of Pseudocode
+
 **Different Types of Pseudocode**
+
 There are two main types of pseudocode: *informal pseudocode* and *formal pseudocode*. Informal pseudocode is a more relaxed way of describing algorithms, and it is often used for brainstorming and communication. Formal pseudocode is a more structured way of describing algorithms, and it is often used for documentation and testing. 
 
 **Challenges of Using Pseudocode**
+
 There are a few challenges that can be associated with using pseudocode. Some of the most important challenges include:
-*Lack of standardization*: 
+-   *Lack of standardization*: 
 There is no single, universally accepted pseudocode notation. This can make it difficult to communicate pseudocode with other programmers.
-*Ambiguity*: Pseudocode can be ambiguous, which can lead to misunderstandings. This is especially true if the pseudocode is not well-written or if it is not used consistently.
-*Time investment*: Writing pseudocode can take time, which can be a challenge for programmers who are under pressure to deliver results quickly.
+-   *Ambiguity*: Pseudocode can be ambiguous, which can lead to misunderstandings. This is especially true if the pseudocode is not well-written or if it is not used consistently.
+-   *Time investment*: Writing pseudocode can take time, which can be a challenge for programmers who are under pressure to deliver results quickly.
 
 ## Overcoming the Challenges of Using Pseudocode
+
 There are a few things that can be done to overcome the challenges of using pseudocode. Some of the most important things to do include:
 
 *Use a standardized pseudocode notation*: 
 This will help to ensure that your pseudocode is readable and understandable by other programmers.
-*Write clear and concise pseudocode*: 
+-   *Write clear and concise pseudocode*: 
 This will help to reduce ambiguity and make your pseudocode easier to understand.
-*Use pseudocode consistently*: This will help to ensure that your pseudocode is interpreted in the same way by different programmers.
-*Be aware of the limitations of pseudocode*: Pseudocode is not a programming language, so it cannot be used to replace code. However, it can be a valuable tool for communicating algorithms and improving the quality of code.
+-   *Use pseudocode consistently*: This will help to ensure that your pseudocode is interpreted in the same way by different programmers.
+-   *Be aware of the limitations of pseudocode*: Pseudocode is not a programming language, so it cannot be used to replace code. However, it can be a valuable tool for communicating algorithms and improving the quality of code.
 
 ## Benefits of Pseudocode-Thinking
 
