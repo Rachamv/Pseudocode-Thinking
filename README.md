@@ -3,6 +3,7 @@
 Introduction
 
 Aspiring programmers often jump into coding exercises and projects without a clear plan or understanding of the logic behind their code. This hasty approach can lead to confusion, inefficiency, and frustration. To avoid these pitfalls, beginner programmers should embrace the practice of pseudocode-thinking. Pseudocode is a way of describing an algorithm without using any specific programming language. It is a high-level, informal language that can be used to communicate an algorithm to anyone who understands the problem that the algorithm is trying to solve.
+
 **History of Pseudocode**
 The term "pseudocode" was first coined in the 1960s by Edsger W. Dijkstra, a Dutch computer scientist. Dijkstra used the term to describe a "plain English" way of describing algorithms. He believed that pseudocode could be used to communicate algorithms more effectively than natural language, and that it could also be used to test and debug algorithms before they were implemented in a programming language.
 
